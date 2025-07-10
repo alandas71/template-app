@@ -1,0 +1,1 @@
+export { ExploreDetailsScreen } from './templates';

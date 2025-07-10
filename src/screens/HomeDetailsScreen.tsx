@@ -1,0 +1,1 @@
+export { HomeDetailsScreen } from './templates';

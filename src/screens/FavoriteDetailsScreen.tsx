@@ -1,0 +1,1 @@
+export { FavoriteDetailsScreen } from './templates';
